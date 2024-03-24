@@ -1,0 +1,51 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    opacity: 0.5;
+}
+
+.holi-greeting {
+    text-align: center;
+    font-size: 200px;
+    background-image: url(first.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow-animation 3s linear infinite;
+}
+
+pre {
+    text-align: center;
+    font-size: 40px;
+    text-decoration: solid;
+
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+marquee {
+    font-size: 60px;
+}
+
+.holi {
+    font-size: 50px;
+    background-image: url(holi-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow-animation 3s linear infinite;
+}
